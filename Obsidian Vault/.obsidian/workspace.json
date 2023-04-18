@@ -4,22 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "049b4a872b20d15c",
+        "id": "b3a4d1e29ee608ef",
         "type": "tabs",
         "children": [
           {
-            "id": "1e25abf414dbe42d",
+            "id": "08a973cf6d3df1f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "PROYECTO JURÍDICO/Proyecto Jurídico.md",
-                "mode": "source",
-                "source": false
+                "file": "MACHINE LEARNING/ML REG LINEAL/Captura de pantalla 2023-04-18 a las 12.52.16.png"
+              }
+            }
+          },
+          {
+            "id": "705ce06d6bd62b55",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MACHINE LEARNING/ML REG LINEAL/Captura de pantalla 2023-04-18 a las 13.13.47.png"
+              }
+            }
+          },
+          {
+            "id": "1d967ddcfc010197",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MACHINE LEARNING/ML REG LINEAL/Captura de pantalla 2023-04-18 a las 12.52.16.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +70,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROYECTO JURÍDICO/Proyecto Jurídico.md",
+                "file": "MACHINE LEARNING/ML REG LINEAL/Captura de pantalla 2023-04-18 a las 12.52.16.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROYECTO JURÍDICO/Proyecto Jurídico.md",
+                "file": "MACHINE LEARNING/ML REG LINEAL/Captura de pantalla 2023-04-18 a las 12.52.16.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROYECTO JURÍDICO/Proyecto Jurídico.md"
+                "file": "MACHINE LEARNING/ML REG LINEAL/Captura de pantalla 2023-04-18 a las 12.52.16.png"
               }
             }
           }
@@ -146,24 +165,48 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1e25abf414dbe42d",
+  "active": "4e906c9b25e3accb",
   "lastOpenFiles": [
+    "MACHINE LEARNING/ML REG LINEAL/Captura de pantalla 2023-04-18 a las 13.13.47.png",
+    "MACHINE LEARNING/ML REG LINEAL/Captura de pantalla 2023-04-18 a las 12.52.16.png",
+    "MACHINE LEARNING/ML REG LINEAL/Regresión lineal.md",
+    "MACHINE LEARNING/ML REG LINEAL/Captura de pantalla 2023-04-18 a las 13.51.28.png",
+    "MACHINE LEARNING/ML REG LINEAL/Captura de pantalla 2023-04-18 a las 12.59.01.png",
+    "MACHINE LEARNING/ML REG LINEAL/Captura de pantalla 2023-04-18 a las 12.31.16.png",
+    "EDA/EDA estructura.md",
+    "MACHINE LEARNING/ML REG LINEAL",
+    "MACHINE LEARNING/ML 1 Clase/Captura de pantalla 2023-04-18 a las 10.47.39.png",
+    "MACHINE LEARNING/ML 1 Clase/Captura de pantalla 2023-04-18 a las 10.34.14.png",
+    "MACHINE LEARNING/ML 1 Clase/Captura de pantalla 2023-04-18 a las 10.22.13.png",
+    "MACHINE LEARNING/ML 1 Clase/Captura de pantalla 2023-04-18 a las 11.21.26.png",
+    "MACHINE LEARNING/ML 1 Clase/Captura de pantalla 2023-04-18 a las 11.33.13.png",
+    "MACHINE LEARNING/ML 1 Clase/Machine Learning 1ª Clase.md",
+    "MACHINE LEARNING/ML 1 Clase",
+    "DATA ANALYSIS",
+    "MACHINE LEARNING",
+    "DATA ANALYSIS/SQL/SQL.md",
+    "DATA ANALYSIS/SQL",
+    "DATA ANALYSIS/COMANDOS TERMINAL/WORKSHOP ON DATA.md",
+    "DATA ANALYSIS/COMANDOS TERMINAL",
+    "DATA ANALYSIS/SOFT HACKING/Saltar Paywalls.md",
+    "DATA ANALYSIS/SOFT HACKING/img/SaltarPaywalls",
+    "DATA ANALYSIS/SOFT HACKING/img",
+    "DATA ANALYSIS/SOFT HACKING",
+    "DATA ANALYSIS/API/API WEB_DATA_datosgob.md",
+    "DATA ANALYSIS/API/API KEY JDCAUX DEVELOPERS.md",
+    "EDA",
+    "Untitled/MATPLOTLIB.md",
+    "DATA ANALYSIS/WEBSCRAPPING/WEBSCRAPPING.md",
+    "DATA ANALYSIS/PIVOT TABLE - TABLA DINÁMICA/PIVOT TABLE - TABLA DINÁMICA.md",
+    "API/API 1.md",
+    "DATA ANALYSIS/ENTORNOS VIRTUALES/CREAR ENTORNOS VIRTUALES.md",
+    "DATA ANALYSIS/PYTHON WEB/PYTHON-WEB.md",
+    "DATA ANALYSIS/PROYECTO JURÍDICO/Proyecto Jurídico.md",
+    "% EN DATAFRAME.md",
+    "PIVOT TABLE - TABLA DINÁMICA.md",
+    "DATA ANALYSIS/SCRUM SEMINARIO/SCRUM SEMINARIO.md",
+    "hola.md",
     "Proyecto Jurídico.md",
-    "PROYECTO JURÍDICO/Proyecto Jurídico.md",
-    "PROYECTO JURÍDICO",
-    "carpeta sin título",
-    "SCRUM SEMINARIO/SCRUM SEMINARIO.md",
-    "SCRUM SEMINARIO/Captura de pantalla 2023-03-17 a las 12.36.27.png",
-    "SCRUM SEMINARIO/Captura de pantalla 2023-03-17 a las 12.35.12.png",
-    "SCRUM SEMINARIO/Captura de pantalla 2023-03-17 a las 12.23.57.png",
-    "SCRUM SEMINARIO/Captura de pantalla 2023-03-17 a las 11.39.55.png",
-    "SCRUM SEMINARIO/Captura de pantalla 2023-03-17 a las 11.39.28.png",
-    "SCRUM SEMINARIO/Captura de pantalla 2023-03-17 a las 11.36.50.png",
-    "SCRUM SEMINARIO/Captura de pantalla 2023-03-17 a las 11.35.48.png",
-    "SCRUM SEMINARIO/Captura de pantalla 2023-03-17 a las 11.35.17.png",
-    "SCRUM SEMINARIO/Captura de pantalla 2023-03-17 a las 11.34.21.png",
-    "SCRUM SEMINARIO/Captura de pantalla 2023-03-17 a las 10.03.34.png",
-    "SCRUM SEMINARIO",
     "Untitled.canvas",
     "2023-03-17.md",
     "SCRUM SEMINARIO.md"

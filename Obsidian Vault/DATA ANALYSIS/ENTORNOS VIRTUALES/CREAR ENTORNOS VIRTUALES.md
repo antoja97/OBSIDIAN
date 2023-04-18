@@ -23,3 +23,6 @@ y después source (nombrequehemospuesto)/bin/activate
 
 *9*- Cuando veamos que hay un requirements, encendemos entorno virtual y ahora con esto, pondremos en terminal : pip install -r \requirements.txt.   (la r así tiene una barra \ )
 Con esto se nos instalará todo sin necesidad de tener que importar todo lo que nos vaya pidiendo
+
+
+## ESTO SE ENCUENTRA EN EL PROYECTO DE HUNDIR LA FLOTA 
