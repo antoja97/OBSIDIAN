@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "e6d6db7640b20df1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d41175c016154fae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd5141384f85cdd6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Obsidian Vault/HADOOP/img/Pasted image 20230714125623.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bec0c47bb6163ce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ce9deccda6fadcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ea40e8ada785d51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ceaaa6c2401ef5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e82f3f72c785711",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad346efb6d9f06d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2781788236a8c69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ff920fa378adeb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Vault/HADOOP/img/Pasted image 20230714125623.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e6597b6ea626589",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Vault/HADOOP/img/Pasted image 20230714125623.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41eb69bf1b6d52d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c600b851d89ac884",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Vault/HADOOP/img/Pasted image 20230714125623.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1ea40e8ada785d51",
+  "lastOpenFiles": [
+    "Obsidian Vault/HADOOP/IMPALA.md",
+    "Obsidian Vault/HADOOP/img/Pasted image 20230714130406.png",
+    "Obsidian Vault/HADOOP/img/Pasted image 20230714130333.png",
+    "Obsidian Vault/HADOOP/img/Pasted image 20230714130317.png",
+    "Obsidian Vault/HADOOP/img/Pasted image 20230714130301.png",
+    "Obsidian Vault/HADOOP/img/Pasted image 20230714130135.png",
+    "Obsidian Vault/HADOOP/img/Pasted image 20230714130002.png",
+    "Obsidian Vault/HADOOP/img/Pasted image 20230714125623.png",
+    "Obsidian Vault/HADOOP/HIVE.md",
+    "Obsidian Vault/HADOOP/img/Pasted image 20230713124951.png",
+    "Obsidian Vault/HADOOP/img/Pasted image 20230713143433.png",
+    "Obsidian Vault/HADOOP/img/Pasted image 20230713143357.png",
+    "Obsidian Vault/HADOOP/HADOOP_INTRO.md",
+    "Obsidian Vault/HADOOP/img",
+    "Obsidian Vault/HADOOP/HADOOP_MODULE_1_SLIDES.pdf",
+    "Untitled.md",
+    "Obsidian Vault/Sin confirmar 948400.crdownload",
+    "Obsidian Vault/HADOOP"
+  ]
+}
