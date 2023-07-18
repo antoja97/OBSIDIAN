@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d41175c016154fae",
+        "id": "c434def9b6432701",
         "type": "tabs",
         "children": [
           {
-            "id": "fd5141384f85cdd6",
+            "id": "e7eb1c221628b3c5",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Obsidian Vault/HADOOP/img/Pasted image 20230714125623.png"
+                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718143951.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/HADOOP/img/Pasted image 20230714125623.png",
+                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718143951.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/HADOOP/img/Pasted image 20230714125623.png",
+                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718143951.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/HADOOP/img/Pasted image 20230714125623.png"
+                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718143951.png"
               }
             }
           }
@@ -146,21 +146,32 @@
   },
   "active": "1ea40e8ada785d51",
   "lastOpenFiles": [
-    "Obsidian Vault/HADOOP/IMPALA.md",
-    "Obsidian Vault/HADOOP/img/Pasted image 20230714130406.png",
-    "Obsidian Vault/HADOOP/img/Pasted image 20230714130333.png",
-    "Obsidian Vault/HADOOP/img/Pasted image 20230714130317.png",
-    "Obsidian Vault/HADOOP/img/Pasted image 20230714130301.png",
-    "Obsidian Vault/HADOOP/img/Pasted image 20230714130135.png",
-    "Obsidian Vault/HADOOP/img/Pasted image 20230714130002.png",
-    "Obsidian Vault/HADOOP/img/Pasted image 20230714125623.png",
-    "Obsidian Vault/HADOOP/HIVE.md",
-    "Obsidian Vault/HADOOP/img/Pasted image 20230713124951.png",
-    "Obsidian Vault/HADOOP/img/Pasted image 20230713143433.png",
-    "Obsidian Vault/HADOOP/img/Pasted image 20230713143357.png",
-    "Obsidian Vault/HADOOP/HADOOP_INTRO.md",
-    "Obsidian Vault/HADOOP/img",
-    "Obsidian Vault/HADOOP/HADOOP_MODULE_1_SLIDES.pdf",
+    "Obsidian Vault/HADOOP/SPARK/4.3-Partitioners.md",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144728.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144711.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144648.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144630.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144557.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144503.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144436.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144414.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144353.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144336.png",
+    "Obsidian Vault/HADOOP/SPARK/4.2-Joins and Shuffling.md",
+    "Obsidian Vault/HADOOP/SPARK/4.1-Pair RDDs.md",
+    "Obsidian Vault/HADOOP/SPARK/3-Topología.md",
+    "Obsidian Vault/HADOOP/SPARK/2-RDDs.md",
+    "Obsidian Vault/HADOOP/ECOSYSTEM/Flume.md",
+    "Obsidian Vault/HADOOP/SPARK/1-Intro Spark.md",
+    "Obsidian Vault/HADOOP/ECOSYSTEM",
+    "Obsidian Vault/HADOOP/SPARK/img",
+    "Obsidian Vault/HADOOP/SPARK",
+    "Obsidian Vault/HADOOP/ECOSYSTEM/SQOOP.md",
+    "Obsidian Vault/HADOOP/ECOSYSTEM/IMPALA.md",
+    "Obsidian Vault/HADOOP/ECOSYSTEM/HIVE.md",
+    "Obsidian Vault/HADOOP/ECOSYSTEM/HADOOP_INTRO.md",
+    "Obsidian Vault/HADOOP/ECOSYSTEM/img",
+    "Obsidian Vault/HADOOP/ECOSYSTEM/HADOOP_MODULE_1_SLIDES.pdf",
     "Untitled.md",
     "Obsidian Vault/Sin confirmar 948400.crdownload",
     "Obsidian Vault/HADOOP"
