@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718143951.png"
+                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719115052.png"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad346efb6d9f06d3",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718143951.png",
+                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719115052.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718143951.png",
+                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719115052.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718143951.png"
+                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719115052.png"
               }
             }
           }
@@ -146,17 +147,19 @@
   },
   "active": "1ea40e8ada785d51",
   "lastOpenFiles": [
+    "Obsidian Vault/HADOOP/SPARK/6-Spark Streaming.md",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121650.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121634.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121610.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121534.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121452.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121442.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121424.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121415.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121400.png",
+    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719120520.png",
+    "Obsidian Vault/HADOOP/SPARK/5-SparkSQL.md",
     "Obsidian Vault/HADOOP/SPARK/4.3-Partitioners.md",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144728.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144711.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144648.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144630.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144557.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144503.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144436.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144414.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144353.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230718144336.png",
     "Obsidian Vault/HADOOP/SPARK/4.2-Joins and Shuffling.md",
     "Obsidian Vault/HADOOP/SPARK/4.1-Pair RDDs.md",
     "Obsidian Vault/HADOOP/SPARK/3-Topología.md",
