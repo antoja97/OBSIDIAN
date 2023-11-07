@@ -11,9 +11,11 @@
             "id": "e7eb1c221628b3c5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719115052.png"
+                "file": "Obsidian Vault/BIG DATA/SPARK/LEARNING SPARK.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719115052.png",
+                "file": "Obsidian Vault/BIG DATA/SPARK/LEARNING SPARK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719115052.png",
+                "file": "Obsidian Vault/BIG DATA/SPARK/LEARNING SPARK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719115052.png"
+                "file": "Obsidian Vault/BIG DATA/SPARK/LEARNING SPARK.md"
               }
             }
           }
@@ -145,38 +147,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ea40e8ada785d51",
+  "active": "e7eb1c221628b3c5",
   "lastOpenFiles": [
-    "Obsidian Vault/HADOOP/SPARK/6-Spark Streaming.md",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121650.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121634.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121610.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121534.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121452.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121442.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121424.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121415.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719121400.png",
-    "Obsidian Vault/HADOOP/SPARK/img/Pasted image 20230719120520.png",
-    "Obsidian Vault/HADOOP/SPARK/5-SparkSQL.md",
-    "Obsidian Vault/HADOOP/SPARK/4.3-Partitioners.md",
-    "Obsidian Vault/HADOOP/SPARK/4.2-Joins and Shuffling.md",
-    "Obsidian Vault/HADOOP/SPARK/4.1-Pair RDDs.md",
-    "Obsidian Vault/HADOOP/SPARK/3-Topología.md",
-    "Obsidian Vault/HADOOP/SPARK/2-RDDs.md",
-    "Obsidian Vault/HADOOP/ECOSYSTEM/Flume.md",
-    "Obsidian Vault/HADOOP/SPARK/1-Intro Spark.md",
-    "Obsidian Vault/HADOOP/ECOSYSTEM",
-    "Obsidian Vault/HADOOP/SPARK/img",
-    "Obsidian Vault/HADOOP/SPARK",
-    "Obsidian Vault/HADOOP/ECOSYSTEM/SQOOP.md",
-    "Obsidian Vault/HADOOP/ECOSYSTEM/IMPALA.md",
-    "Obsidian Vault/HADOOP/ECOSYSTEM/HIVE.md",
-    "Obsidian Vault/HADOOP/ECOSYSTEM/HADOOP_INTRO.md",
-    "Obsidian Vault/HADOOP/ECOSYSTEM/img",
-    "Obsidian Vault/HADOOP/ECOSYSTEM/HADOOP_MODULE_1_SLIDES.pdf",
+    "Pasted image 20230725093047.png",
+    "Pasted image 20230725092905.png",
+    "Pasted image 20230725092741.png",
+    "Pasted image 20230725092717.png",
+    "Pasted image 20230725092513.png",
+    "Pasted image 20230725092259.png",
+    "Pasted image 20230725091852.png",
+    "Pasted image 20230725091515.png",
+    "Pasted image 20230724172040.png",
+    "Pasted image 20230724171217.png",
+    "Pasted image 20230724170528.png",
+    "Obsidian Vault/BIG DATA/SPARK/LEARNING SPARK.md",
+    "Obsidian Vault/DATA ANALYSIS/PIVOT TABLE - TABLA DINÁMICA/PIVOT TABLE - TABLA DINÁMICA.md",
+    "Obsidian Vault/MACHINE LEARNING/Clasificación/Clasificación.md",
+    "Obsidian Vault/BIG DATA/SPARK/6-Spark Streaming.md",
+    "Obsidian Vault/BIG DATA/SPARK/5-SparkSQL.md",
+    "Obsidian Vault/BIG DATA/SPARK/4.3-Partitioners.md",
+    "Obsidian Vault/BIG DATA/SPARK/4.2-Joins and Shuffling.md",
+    "Obsidian Vault/BIG DATA/SPARK/4.1-Pair RDDs.md",
+    "Obsidian Vault/BIG DATA/SPARK/3-Topología.md",
+    "Obsidian Vault/BIG DATA/SPARK/2-RDDs.md",
+    "Obsidian Vault/BIG DATA/ECOSYSTEM/Flume.md",
+    "Obsidian Vault/BIG DATA/SPARK/1-Intro Spark.md",
+    "Obsidian Vault/BIG DATA/ECOSYSTEM",
+    "Obsidian Vault/BIG DATA/SPARK/img",
+    "Obsidian Vault/BIG DATA/SPARK",
+    "Obsidian Vault/BIG DATA/ECOSYSTEM/SQOOP.md",
+    "Obsidian Vault/BIG DATA/ECOSYSTEM/IMPALA.md",
+    "Obsidian Vault/BIG DATA/ECOSYSTEM/HIVE.md",
+    "Obsidian Vault/BIG DATA/ECOSYSTEM/HADOOP_INTRO.md",
+    "Obsidian Vault/BIG DATA/ECOSYSTEM/img",
+    "Obsidian Vault/BIG DATA/ECOSYSTEM/HADOOP_MODULE_1_SLIDES.pdf",
     "Untitled.md",
     "Obsidian Vault/Sin confirmar 948400.crdownload",
-    "Obsidian Vault/HADOOP"
+    "Obsidian Vault/BIG DATA"
   ]
 }
